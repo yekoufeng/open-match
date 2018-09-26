@@ -19,6 +19,9 @@ go build .
 cd ../..
 
 # mmforc
+cd cmd/mmforc
+go build .
+cd ../..
 
 # evaluator
 # mmf
