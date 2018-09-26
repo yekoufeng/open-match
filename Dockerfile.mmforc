@@ -14,18 +14,9 @@ WORKDIR /go/src/github.com/GoogleCloudPlatform/open-match/
 COPY cmd/mmforc cmd/mmforc
 COPY config config
 COPY internal internal
+COPY vendor vendor
 WORKDIR /go/src/github.com/GoogleCloudPlatform/open-match/cmd/mmforc/
-
 # RUN go get -d -v 
-RUN go get github.com/gomodule/redigo/redis
-RUN go get github.com/sirupsen/logrus
-RUN go get github.com/spf13/viper
-RUN go get github.com/tidwall/gjson
-RUN go get go.opencensus.io/exporter/prometheus
-RUN go get go.opencensus.io/stats
-RUN go get go.opencensus.io/stats/view
-RUN go get go.opencensus.io/tag
-
 RUN CGO_ENABLED=0 GOOS=linux go build -a -installsuffix cgo .
 
 # Uncomment to build production images (removes all troubleshooting tools)
