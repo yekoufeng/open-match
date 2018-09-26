@@ -99,6 +99,18 @@
 			"revisionTime": "2018-08-01T05:14:52Z"
 		},
 		{
+			"checksumSHA1": "5lMzZtb4uUo+N/J+cK7LqwR6bQQ=",
+			"path": "github.com/gomodule/redigo/internal",
+			"revision": "2cd21d9966bf7ff9ae091419744f0b3fb0fecace",
+			"revisionTime": "2018-06-27T14:45:07Z"
+		},
+		{
+			"checksumSHA1": "7LBPojy3Jduic8tFDejR9xei/z0=",
+			"path": "github.com/gomodule/redigo/redis",
+			"revision": "2cd21d9966bf7ff9ae091419744f0b3fb0fecace",
+			"revisionTime": "2018-06-27T14:45:07Z"
+		},
+		{
 			"checksumSHA1": "qgxn7mpBJNDrpC09gw2ccx0W2KE=",
 			"path": "github.com/google/gofuzz",
 			"revision": "24818f796faf91cd76ec7bddd72458fbced7a6c1",
