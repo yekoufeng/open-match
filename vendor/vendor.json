@@ -1482,13 +1482,6 @@
 			"revisionTime": "2018-09-26T09:42:01Z"
 		},
 		{
-			"checksumSHA1": "phHrqx6z9dpaJP9bd4rh4Eh1DjM=",
-			"origin": "GoogleCloudPlatform/open-match/cmd/mmforc/vendor/k8s.io/client-go/plugin/pkg/client/auth/gcp",
-			"path": "k8s.io/client-go/plugin/pkg/client/auth/gcp",
-			"revision": "6501b87b41bddf8ddf01a9b68ee0c798b70c3129",
-			"revisionTime": "2018-09-26T09:42:01Z"
-		},
-		{
 			"checksumSHA1": "K8XF8Y3C2pFu5qlX2ckGfg/BTcE=",
 			"origin": "GoogleCloudPlatform/open-match/cmd/mmforc/vendor/k8s.io/client-go/rest",
 			"path": "k8s.io/client-go/rest",
@@ -1499,13 +1492,6 @@
 			"checksumSHA1": "BlnlpwC0vHGOvekvphQSzViVSI8=",
 			"origin": "GoogleCloudPlatform/open-match/cmd/mmforc/vendor/k8s.io/client-go/rest/watch",
 			"path": "k8s.io/client-go/rest/watch",
-			"revision": "6501b87b41bddf8ddf01a9b68ee0c798b70c3129",
-			"revisionTime": "2018-09-26T09:42:01Z"
-		},
-		{
-			"checksumSHA1": "HP4b7BZf+fJxGDHk3vJAGNvyx+I=",
-			"origin": "GoogleCloudPlatform/open-match/cmd/mmforc/vendor/k8s.io/client-go/third_party/forked/golang/template",
-			"path": "k8s.io/client-go/third_party/forked/golang/template",
 			"revision": "6501b87b41bddf8ddf01a9b68ee0c798b70c3129",
 			"revisionTime": "2018-09-26T09:42:01Z"
 		},
@@ -1557,14 +1543,7 @@
 			"path": "k8s.io/client-go/util/integer",
 			"revision": "6501b87b41bddf8ddf01a9b68ee0c798b70c3129",
 			"revisionTime": "2018-09-26T09:42:01Z"
-		},
-		{
-			"checksumSHA1": "xP41GCO5FRVTVJnW4OQHYXkqmus=",
-			"origin": "GoogleCloudPlatform/open-match/cmd/mmforc/vendor/k8s.io/client-go/util/jsonpath",
-			"path": "k8s.io/client-go/util/jsonpath",
-			"revision": "6501b87b41bddf8ddf01a9b68ee0c798b70c3129",
-			"revisionTime": "2018-09-26T09:42:01Z"
 		}
 	],
-	"rootPath": "GoogleCloudPlatform/open-match"
+	"rootPath": "github.com/GoogleCloudPlatform/open-match"
 }

@@ -8,7 +8,7 @@ FROM golang:1.10.3 as builder
 # RUN git checkout v7.0.0
 # RUN godep restore ./...
 # RUN rm -rf vendor/
-RUN rm -rf /go/src/github.com/golang/protobuf/
+# RUN rm -rf /go/src/github.com/golang/protobuf/
 
 WORKDIR /go/src/github.com/GoogleCloudPlatform/open-match/
 COPY cmd/mmforc cmd/mmforc
