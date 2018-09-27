@@ -24,11 +24,11 @@
     },
     "defaultImages": {
         "evaluator": {
-            "name": "gcr.io/matchmaker-dev-201405/openmatch-evaluator",
+            "name": "registry.cn-shanghai.aliyuncs.com/jinq0123/openmatch-evaluator",
             "tag": "dev"
         },
         "mmf": {
-            "name": "gcr.io/matchmaker-dev-201405/openmatch-mmf",
+            "name": "registry.cn-shanghai.aliyuncs.com/jinq0123/openmatch-mmf",
             "tag": "dev"
         }
     },
