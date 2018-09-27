@@ -27,7 +27,7 @@
             "containers":[
                {
                   "name":"om-mmforc",
-                  "image":"gcr.io/matchmaker-dev-201405/openmatch-mmforc:dev",
+                  "image":"registry.cn-shanghai.aliyuncs.com/jinq0123/openmatch-mmforc:dev",
                   "imagePullPolicy":"Always",
                   "ports": [
                     {
