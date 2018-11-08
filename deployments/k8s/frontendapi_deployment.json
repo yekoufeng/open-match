@@ -27,7 +27,7 @@
             "containers":[
                {
                   "name":"om-frontendapi",
-                  "image":"registry.cn-shanghai.aliyuncs.com/jinq0123/openmatch-frontendapi:dev",
+                  "image":"registry.cn-shanghai.aliyuncs.com/giant-tech/openmatch-frontendapi:dev",
                   "imagePullPolicy":"Always",
                   "ports": [
                     {

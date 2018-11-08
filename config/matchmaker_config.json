@@ -24,11 +24,11 @@
     },
     "defaultImages": {
         "evaluator": {
-            "name": "registry.cn-shanghai.aliyuncs.com/jinq0123/openmatch-evaluator",
+            "name": "registry.cn-shanghai.aliyuncs.com/giant-tech/openmatch-evaluator",
             "tag": "dev"
         },
         "mmf": {
-            "name": "registry.cn-shanghai.aliyuncs.com/jinq0123/openmatch-mmf",
+            "name": "registry.cn-shanghai.aliyuncs.com/giant-tech/openmatch-mmf",
             "tag": "dev"
         }
     },

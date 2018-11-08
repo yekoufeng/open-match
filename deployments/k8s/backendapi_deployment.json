@@ -27,7 +27,7 @@
             "containers":[
                {
                   "name":"om-backend",
-                  "image":"registry.cn-shanghai.aliyuncs.com/jinq0123/openmatch-backendapi:dev",
+                  "image":"registry.cn-shanghai.aliyuncs.com/giant-tech/openmatch-backendapi:dev",
                   "imagePullPolicy":"Always",
                   "ports": [
                     {
